@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a fourth-year Ph.D. candidate at the [School of Electronic Science and Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). I am very fortunate to be advised by [Prof. Qijun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Qijun) and [Prof. Chengju Liu](https://dblp.org/pid/81/8202.html) at the [Robotics and Artificial Intelligence Lab (RAIL)](https://rail.tongji.edu.cn/main.htm), Tongji University. Currently, I serve as the team leader of [RAIL-VLN](https://rail-vln.github.io/).
 
-I am also an algorithm intern at the Center for Embodied AI, Shanghai AI Laboratory, under the mentorship of [Prof. Hanqing Wang](https://hanqingwangai.github.io/), [Prof. Tai Wang](https://tai-wang.github.io/), [Prof. Yilun Chen](https://yilunchen.com/about/), and [Prof. Jiangmiao Pang](https://oceanpang.github.io/).
+I am also an algorithm intern at the Center for Embodied AI, Shanghai AI Laboratory, under the mentorship of [Dr. Hanqing Wang](https://hanqingwangai.github.io/), [Dr. Tai Wang](https://tai-wang.github.io/), [Dr. Yilun Chen](https://yilunchen.com/about/), and [Dr. Jiangmiao Pang](https://oceanpang.github.io/).
 
 My research interests include vision-and-language navigation, multimodal fusion, embodied AI, causal learning, knowledge distillation, and trajectory-instruction generation. I have published 10+ papers in top-tier AI conferences and journals such as CVPR, ICCV, ICML, IJCAI, ACMMM, IROS, TCSVT, EAAI, and TIM.[![Google Scholar Citations](https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?user=AW2gZ8cAAAAJ)
 
