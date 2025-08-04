@@ -16,31 +16,31 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-I'm a third-year Ph.D candidate student from [School of Electronic Science and Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). I am very fortunate to be advised by [Prof. Qijun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Qijun) and [Prof. Chengju Liu](https://dblp.org/pid/81/8202.html) of [Robotics and Artificial Intelligent Lab (RAIL)](https://rail.tongji.edu.cn/main.htm), Tongji University. 
+I'm a fourth-year Ph.D. candidate at the [School of Electronic Science and Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). I am very fortunate to be advised by [Prof. Qijun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Qijun) and [Prof. Chengju Liu](https://dblp.org/pid/81/8202.html) at the [Robotics and Artificial Intelligence Lab (RAIL)](https://rail.tongji.edu.cn/main.htm), Tongji University. Currently, I serve as the team leader of [RAIL-VLN](https://rail-vln.github.io/).
 
-My research interests include vision-and-language navigation, multimodal fusion, embodied AI, causal learning, knowledge distillation, and trajectory-instruction generation. I have published 10+ papers at the top international AI conferences such as CVPR, ICCV, ICML, IJCAI, ACMMM, IROS, and top SCI journals such as TCSVT, EAAI, and TIM <a href='https://scholar.google.com/citations?user=AW2gZ8cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of academic cooperation, please feel free to [email](wly@tongji.edu.cn) me.
+I am also an algorithm intern at the Center for Embodied AI, Shanghai AI Laboratory, under the mentorship of [Prof. Hanqing Wang](https://hanqingwangai.github.io/), [Prof. Tai Wang](https://tai-wang.github.io/), [Prof. Yilun Chen](https://yilunchen.com/about/), and [Prof. Jiangmiao Pang](https://oceanpang.github.io/).
+
+My research interests include vision-and-language navigation, multimodal fusion, embodied AI, causal learning, knowledge distillation, and trajectory-instruction generation. I have published 10+ papers in top-tier AI conferences and journals such as CVPR, ICCV, ICML, IJCAI, ACMMM, IROS, TCSVT, EAAI, and TIM.  
+<a href='https://scholar.google.com/citations?user=AW2gZ8cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
+If you are interested in academic collaboration, feel free to [email](mailto:wly@tongji.edu.cn) me.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Two papers are accepted by IROS 2024.
-- *2024.02*: &nbsp;🎉🎉 One paper is accpted by CVPR 2024.
-<!-- - *2023.05*: &nbsp;🎉🎉 One paper is accpted by IJCAI 2023. -->
+- *2025.08*: 🎉🎉 One paper accepted by TCSVT.
+- *2025.05*: 🎉🎉 Two papers accepted by ICCV 2025.
+- *2024.06*: 🎉🎉 Two papers accepted by IROS 2024.
+- *2024.02*: 🎉🎉 One paper accepted by CVPR 2024 and one by RAL.
+- *2023.05*: 🎉🎉 One paper accepted by IJCAI 2023.
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- Example publication box removed for brevity -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
+- `TCSVT 2025` [NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization](https://arxiv.org/abs/2507.10894), Zongtao He, **Liuyi Wang**, Lu Chen, et al. [![](https://github.com/RavenKiller/NavComposer?style=social&label=Code+Stars)](https://github.com/RavenKiller/NavComposer)
+- `ICCV 2025` [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019), **Liuyi Wang**, Xinyuan Xia, Hui Zhao, et al. [![](https://github.com/InternRobotics/InternNav?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternNav)
+- `RAL 2025` [Temporal Scene-Object Graph Learning for Object Navigation](https://ieeexplore.ieee.org/document/10933547), Lu Chen, Zongtao He, **Liuyi Wang**, et al. [![](https://github.com/izilu/RAL-TSOG?style=social&label=Code+Stars)](https://github.com/izilu/RAL-TSOG)
+- `IROS 2024` [Multimodal Evolutionary Encoder for Continuous Vision-Language Navigation](https://ieeexplore.ieee.org/document/10802484), Zongtao He, **Liuyi Wang**, Lu Chen, et al. [![](https://github.com/RavenKiller/MEE?style=social&label=Code+Stars)](https://github.com/RavenKiller/MEE)
+- `IROS 2024` [Enhanced Language-guided Robot Navigation with Panoramic Semantic Depth Perception and Cross-modal Fusion](https://ieeexplore.ieee.org/document/10801563), **Liuyi Wang**, Jiagui Tang, Zongtao He, et al. [![](https://github.com/CrystalSixone/SEAT?style=social&label=Code+Stars)](https://github.com/CrystalSixone/SEAT)
 - `CVPR 2024` [Vision-and-Language via Causal Learning](https://arxiv.org/pdf/2404.10241), **Liuyi Wang**, Zongtao He, Ronghao Dang, et al. [![](https://img.shields.io/github/stars/CrystalSixone/VLN-GOAT?style=social&label=Code+Stars)](https://github.com/CrystalSixone/VLN-GOAT)
 - ``Submitted`` [MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation](https://arxiv.org/abs/2406.17960), **Liuyi Wang**, Zongtao He, Mengjiao Shen, et al. [![](https://img.shields.io/github/stars/CrystalSixone/VLN-MAGIC?style=social&label=Code+Stars)](https://github.com/CrystalSixone/VLN-MAGIC)
 - ``EAAI 2024`` [PASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-
@@ -53,17 +53,23 @@ Language Navigation](https://www.sciencedirect.com/science/article/abs/pii/S0952
 - ``ACMMM 2022`` [Unbiased Directed Object Attention Graph for Object Navigation](https://arxiv.org/abs/2204.04421), Ronghao Dang, Zhuofan Shi, **Wang, liuyi**, et al. 
 - ``RINAM 2021`` [Graph Based Twin Cost Matrices for Unbalanced Assignment Problem with Improved Ant Colony Algorithm](https://www.sciencedirect.com/science/article/pii/S2590037421000467), **Liuyi Wang**, Zongtao He, Chengju Liu, Qijun Chen.
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2020.09 - 2026.03 (now)*, PhD candidate, Control Science and Engineering, Tongji University. 
-- *2016.09 - 2020.06*, Undergraduate, Automation, Tongji University.
+# 🎖 Honors and Awards
+- Recipient of the 2025 Tongji University’s Highest Honor: the Pursuit of Excellence Scholarship.
+- Honored as an Outstanding Graduate of Shanghai Municipality.
+- Awarded national and university-level scholarships including the Baosteel Excellent Student Award, Huawei Scholarship, and Tongji Excellent Doctoral Scholarship.
+- Principal investigator of a youth project funded by the National Natural Science Foundation of China.
+- Selected for the 2024 "Youth Talent Support Program for PhD Students" by the China Association for Science and Technology.
+- Published 18 papers in top-tier AI and robotics conferences and journals such as CVPR, ICCV, ICML, IJCAI, TCSVT, and IROS.
+- Granted and disclosed 4 national patents.
+- Finalist for the 2025 World AI Conference Young Scholar Best Paper Award.
+- Received Best Cognitive Paper Nomination at IROS, Best Paper Award at the Chinese Intelligent Automation Conference.
+- Three-time champion of the RoboCup China Open (Home League).
+- Served as reviewer for journals and conferences including TPAMI, TCSVT, TMM, EAAI, ICCV, ACMMM, and IROS.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 📖 Education
+- *2020.09 – Present*, Ph.D. Candidate in Control Science and Engineering, Tongji University.
+- *2016.09 – 2020.06*, B.Eng. in Automation, Tongji University.
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2024.07 – Present*, Algorithm Intern, Center for Embodied AI, Shanghai AI Lab, China.
