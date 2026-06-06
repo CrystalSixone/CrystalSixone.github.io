@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liuyi Wang/Personal Homepage"
-description              : "A forth-year Ph.D candidate from Tongji University"
+title                    : "Liuyi Wang | Embodied AI Researcher"
+description              : "Embodied AI researcher building robust vision-and-language navigation systems for real robots."
+url                      : "https://crystalsixone.github.io"
 repository               : "CrystalSixone/CrystalSixone.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liuyi Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hello AI world!"
+  bio              : "Embodied AI researcher focused on vision-language navigation, causal reasoning, and robot intelligence."
   location         : "Shanghai, China"
   employer         : "Tongji University"
   pubmed           : 
