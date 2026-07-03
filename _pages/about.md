@@ -68,12 +68,15 @@ redirect_from:
   </div>
 </section>
 
-I received my Ph.D. in Control Science and Engineering from [Tongji University](https://www.tongji.edu.cn/) in March 2026, advised by [Prof. Qijun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Qijun) and [Prof. Chengju Liu](https://dblp.org/pid/81/8202.html) at the [Robotics and Artificial Intelligence Lab (RAIL)](https://rail.tongji.edu.cn/main.htm). I led the [RAIL-VLN](https://rail-vln.github.io/) team and interned at the Center for Embodied AI, Shanghai AI Laboratory, where I worked on a next-generation VLN foundation engine for high-fidelity embodied interaction across legged and wheeled robots.
+I am pursuing my Ph.D. in Control Science and Engineering from [Tongji University](https://www.tongji.edu.cn/), advised by [Prof. Qijun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Qijun) and [Prof. Chengju Liu](https://dblp.org/pid/81/8202.html) at the [Robotics and Artificial Intelligence Lab (RAIL)](https://rail.tongji.edu.cn/main.htm). I led the [RAIL-VLN](https://rail-vln.github.io/) team and interned at the Center for Embodied AI, Shanghai AI Laboratory, where I worked on a next-generation VLN foundation engine for high-fidelity embodied interaction across legged and wheeled robots.
 
 My research focuses on **vision-and-language navigation**, **embodied AI**, **vision-language large models**, **multimodal perception and decision-making**, **causal learning**, **knowledge distillation**, and **trajectory-instruction generation**. My broader goal is to make embodied agents robust enough to understand language, perceive complex scenes, reason under uncertainty, and act reliably in the physical world. [![Google Scholar Citations](https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?user=AW2gZ8cAAAAJ)
 
 # News {#news}
+- *2026.07*: One paper accepted by TASE.
 - *2026.05*: One paper accepted by TPAMI.
+- *2026.06*: Two papers accepted by ECCV 2026.
+- *2026.04*: One paper accepted by CVPR 2026.
 - *2026.03*: Honored as an Outstanding Graduate of Shanghai Municipality.
 - *2026.01*: Received the Shanghai AI Society Young Excellent Paper Award and Shanghai AI Lab "Xingqi" Intern Award (5%).
 - *2025.11*: Honored as Tongji University's Academic Pioneer, the university's highest academic distinction for graduate students .
